@@ -1,7 +1,7 @@
 Python version and libraries:
 
-conda create -n iml_4 python=3.7
-conda activate iml_4
+conda create -n triplet_loss python=3.7
+conda activate triplet_loss
 
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
